@@ -1,5 +1,5 @@
 # Zoo-animal-EDA
-# 03. Zoo Animals EDA
+# Zoo Animals EDA
 
 Exploratory Data Analysis (EDA) of the **UCI Zoo Dataset** using Python, NumPy, Pandas, and Matplotlib. This project examines animal class distributions, biological characteristics, and data quality without machine learning.
 
